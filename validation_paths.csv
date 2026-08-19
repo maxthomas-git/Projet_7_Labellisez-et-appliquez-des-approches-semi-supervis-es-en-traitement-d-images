@@ -1,0 +1,11 @@
+image_path,label
+mri_dataset_brain_cancer_oc/avec_labels/normal/71f8bd3d-58a9-485f-860d-cfca5fd01bae.jpg,1
+mri_dataset_brain_cancer_oc/avec_labels/cancer/c6c3d533-e366-42ff-9e69-fa2823910709.jpg,0
+mri_dataset_brain_cancer_oc/avec_labels/cancer/73352791-6331-48a0-b0d1-045fb31d376c.jpg,0
+mri_dataset_brain_cancer_oc/avec_labels/normal/9e761fb7-da77-4feb-b268-2d873293ee78.jpg,1
+mri_dataset_brain_cancer_oc/avec_labels/normal/7b966204-9ca7-4960-b261-026b29b427c4.jpg,1
+mri_dataset_brain_cancer_oc/avec_labels/normal/42ba7707-26c1-42bc-a00f-3d456741ef96.jpg,1
+mri_dataset_brain_cancer_oc/avec_labels/cancer/a038584c-fc3c-4f82-9a7c-1c4bb7339c2e.jpg,0
+mri_dataset_brain_cancer_oc/avec_labels/normal/b9b56b95-43de-4c35-8362-400e9271af71.jpg,1
+mri_dataset_brain_cancer_oc/avec_labels/cancer/546ccef0-d10d-4e24-b3dd-660365910236.jpg,0
+mri_dataset_brain_cancer_oc/avec_labels/cancer/d018fae6-42d9-4de3-acbf-6c2637c28482.jpg,0
